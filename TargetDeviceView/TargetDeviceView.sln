@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetDeviceView", "TargetDeviceView\TargetDeviceView.csproj", "{4789667F-7B48-4C59-857A-2DDB22489D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4789667F-7B48-4C59-857A-2DDB22489D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4789667F-7B48-4C59-857A-2DDB22489D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4789667F-7B48-4C59-857A-2DDB22489D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4789667F-7B48-4C59-857A-2DDB22489D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4705B390-A65D-45FA-8EBA-E5E352D0150F}
+	EndGlobalSection
+EndGlobal
